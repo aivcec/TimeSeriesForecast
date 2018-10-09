@@ -9,6 +9,9 @@ The case study was about using upstream data about water level, flow and raindro
 
 The time series data consists of 4 hydrological stations and various meteorological stations along the stream of river Kupa. The received data consisted of daily readings of 6 years of rainfall(mm), flow(m^3/2) and water level (cm). The first 5 years were used as training for the models and the last year is used as test data in these samples.
 
+<img src="images/kupa.png" width="whatever" height="whatever"> 
+
+
 ### Files
 ---
 The forecasting methods are presented in a couple of python notebooks.
